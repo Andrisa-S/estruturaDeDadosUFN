@@ -6,13 +6,13 @@ void mostrarVetor(int *p);
 void separarVetores();
 
 
-int v[n]; //Variável global
+int v[n]; //VariÃ¡vel global
 int pares[n]; //Vetor pares
 int impares[n]; //Vetor impares
 int qtdPares = 0; // Quantidade de pares
 int qtdImpares = 0; // Quantidade de impares
 
-//Função para leitura do vetor
+//FunÃ§Ã£o para leitura do vetor
 void lerVetor (){
     int i;
     int min = 0;
@@ -25,7 +25,7 @@ void lerVetor (){
     return 0;
 }
 
-//Função para exibir o vetor
+//FunÃ§Ã£o para exibir o vetor
 void mostrarVetor (int *p){
     int i;
 
@@ -37,7 +37,7 @@ void mostrarVetor (int *p){
     return;
 }
 
-//Função para separar pares e impares
+//FunÃ§Ã£o para separar pares e impares
 void separarVetores (int *p){
     int i;
 
@@ -54,7 +54,7 @@ void separarVetores (int *p){
     return;
 }
 
-// Função para mostrar o vetor de pares
+// FunÃ§Ã£o para mostrar o vetor de pares
 void mostrarPares() {
 
     for(int i = 0; i < qtdPares; i++) {
@@ -63,7 +63,7 @@ void mostrarPares() {
     printf("\n");
 }
 
-// Função para mostrar o vetor de impares
+// FunÃ§Ã£o para mostrar o vetor de impares
 void mostrarImpares() {
 
     for(int i = 0; i < qtdImpares; i++) {
