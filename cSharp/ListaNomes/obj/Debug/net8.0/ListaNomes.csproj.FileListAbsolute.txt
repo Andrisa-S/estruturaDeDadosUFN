@@ -1,0 +1,14 @@
+C:\Users\laboratorio\Desktop\ListaNomes\bin\Debug\net8.0\ListaNomes.exe
+C:\Users\laboratorio\Desktop\ListaNomes\bin\Debug\net8.0\ListaNomes.deps.json
+C:\Users\laboratorio\Desktop\ListaNomes\bin\Debug\net8.0\ListaNomes.runtimeconfig.json
+C:\Users\laboratorio\Desktop\ListaNomes\bin\Debug\net8.0\ListaNomes.dll
+C:\Users\laboratorio\Desktop\ListaNomes\bin\Debug\net8.0\ListaNomes.pdb
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.dll
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\refint\ListaNomes.dll
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.pdb
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ListaNomes.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\ListaNomes\obj\Debug\net8.0\ref\ListaNomes.dll
