@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class ExercícioED {
     public static void main(String[] args) {
-        
+
+        //Criação de lista
         ArrayList<String> lista = new ArrayList<>();
 
         int tamanho = 5;
