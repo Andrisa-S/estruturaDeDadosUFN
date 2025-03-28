@@ -1,3 +1,12 @@
+*Revisão*
+  - Listas
+    - Dicionários -> par de atributos: 1° é uma chave; 2° é o valor
+    - Lista de: tipos primitivos; listas; dicionários; objetos
+  - Pilhas
+  - Filas
+  - Árvores
+  - Grafos
+
 *Lista, Dicionário e Lista em dicionário:*
 
 ### 1. **Lista (ArrayList)**
