@@ -1,0 +1,14 @@
+C:\Users\laboratorio\Desktop\FilaDeProcessos\bin\Debug\net8.0\FilaDeProcessos.exe
+C:\Users\laboratorio\Desktop\FilaDeProcessos\bin\Debug\net8.0\FilaDeProcessos.deps.json
+C:\Users\laboratorio\Desktop\FilaDeProcessos\bin\Debug\net8.0\FilaDeProcessos.runtimeconfig.json
+C:\Users\laboratorio\Desktop\FilaDeProcessos\bin\Debug\net8.0\FilaDeProcessos.dll
+C:\Users\laboratorio\Desktop\FilaDeProcessos\bin\Debug\net8.0\FilaDeProcessos.pdb
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.dll
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\refint\FilaDeProcessos.dll
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.pdb
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\FilaDeProcessos.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\FilaDeProcessos\obj\Debug\net8.0\ref\FilaDeProcessos.dll
