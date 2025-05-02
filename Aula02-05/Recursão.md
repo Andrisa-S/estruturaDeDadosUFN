@@ -22,9 +22,7 @@ while (i < 10) { i++; }
 // Do-While
 int j = 0;
 do { j++; } while(j < 10);
-
-# Recursão
-
+```
 ## Tipos de Recursão
 
 ### - Recursão sem retorno (métodos `void`)
@@ -35,5 +33,5 @@ void metodoExemplo(int variavelControle) {
         metodoExemplo(variavelControleTransformada);
     }
 }
-
+```
 ### - Recursão com retorno -> via métodos com retorno com um tipo de dado
