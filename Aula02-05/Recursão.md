@@ -23,6 +23,8 @@ while (i < 10) { i++; }
 int j = 0;
 do { j++; } while(j < 10);
 
+# Recursão
+
 ## Tipos de Recursão
 
 ### - Recursão sem retorno (métodos `void`)
