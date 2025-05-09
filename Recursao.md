@@ -1,7 +1,7 @@
 
 Recursão -> Técnica de reepetição por empilhamento de processo -> o mesmo processo se chamando várias vezes
 
-    - entender o que compoe uma reepetição
+    - entender o que compoe uma repetição
         for (inicialização da variável de controle; teste de parada com a variável de controle; transformação da variável de controle)
 
 
@@ -16,7 +16,7 @@ void  metodoRecursivo(...., variavelControle){
     if (teste de parada){
         //código no empilhamento
 
-        //pnto de recursão, ou chamada recursiva transformando variável de controle
+        //ponto de recursão, ou chamada recursiva transformando variável de controle
 
         //código no desempilhamento
     }
@@ -26,7 +26,7 @@ tipo metodoRecursivo(...., variavelControle){
     if (teste de parada){
         //código no empilhamento
 
-        //pnto de recursão, ou chamada recursiva transformando variável de controle
+        //ponto de recursão 
 
         //código no desempilhamento
     }
