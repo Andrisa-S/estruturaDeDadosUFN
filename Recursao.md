@@ -12,6 +12,7 @@ Processo - var1, var2 - id1
 
 Objeto.metodo(outroObjeto.metodo(outroDenovoObjeto.atributo))
 
+'''C++
 void  metodoRecursivo(...., variavelControle){
     if (teste de parada){
         //código no empilhamento
@@ -31,3 +32,4 @@ tipo metodoRecursivo(...., variavelControle){
         //código no desempilhamento
     }
 }
+'''
