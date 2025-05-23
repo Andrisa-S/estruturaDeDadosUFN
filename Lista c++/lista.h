@@ -28,6 +28,10 @@ Celula *inserir(int dado, Celula *lista){
             return lista; //ou seja, dado ja inserido
         }
     }
+    if (dado == p->dado) {
+            free(novo);
+            return lista; //ou seja, dado ja inserido
+        }
 
     //Encadear e retornar
     p -> prox = novo;
