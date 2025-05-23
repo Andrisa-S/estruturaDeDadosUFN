@@ -7,25 +7,25 @@ typedef struct no {
 } Celula;
 
 Celula *inserir(int dado, Celula *lista){
-    //Alocar memória
+    //Alocar memoria
     Celula *novo = (Celula *)malloc(sizeof(Celula));
 
-    //Depositar valores que vêm do parâmetro
+    //Depositar valores que vem do parametro
     novo -> dado = dado;
     novo -> prox = NULL;
 
 
-    //Testar se é o primeiro elemento a ser inserido
+    //Testar se eh o primeiro elemento a ser inserido
     if (lista == NULL){ //if (!lista)
         return novo;
     }
 
-    //Percorrer a estrutura até o final
+    //Percorrer a estrutura ate o final
     Celula *p;
     for (p = lista; p -> prox != NULL; p = p -> prox) {
         if (dado == p->dado) {
             free(novo);
-            return lista; //ou seja, dado já inserido
+            return lista; //ou seja, dado ja inserido
         }
     }
 
