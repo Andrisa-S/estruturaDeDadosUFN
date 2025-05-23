@@ -24,18 +24,18 @@ int main(){
 
     cout << numero << " esta na lista?\n" << estaNaLista(numero, lista) << endl;
 
-    //contar ocorrências de um número
+    //contar ocorrencias de um numero
     cout << numero << " aparece " << numeroOcorre(numero, lista) << " vezes" << endl;
 
-    //verificar se a lista está ou não ordenada
+    //verificar se a lista esta ou nao ordenada
     cout << "A lista esta ordenada?\t" << estaOrdenada(lista) << endl;
 
-    //calcular a média dos elemento da lista
+    //calcular a media dos elemento da lista
     cout << "Media da lista: " << media(lista) << endl;
 
     //alterar o inserir para que controle duplicados
 
-    //criar método de ordeenação da lista encadeada
+    //criar metodo de ordeenacao da lista encadeada
     cout << "\nLista ordenada:" << endl;
     exibir(listaOrdenada(lista));
 
